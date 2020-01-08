@@ -1,8 +1,27 @@
 
 img {
-  width: 200px;
+  width: 500px;
 }
+
 .column {
   width: 300px;
   float: left;
+  background-color: beige;
+  height: 600px;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: red;
+  height: 600px;
+  padding: 20px;
+}
+
+.column3 {
+  width: 500px;
+  float: left;
+  background-color: green;
+  height: 600px;
+  padding: 20px;
 }
